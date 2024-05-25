@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MailSender" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="butchersgarden.main.auth.microservices.mailsender.MailSenderApplication" />
+    <module name="mail-sender.main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="butchersgarden.main.auth.microservices.mailsender.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

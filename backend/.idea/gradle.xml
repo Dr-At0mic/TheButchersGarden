@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AppCommonUtils" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AppCommonUtils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/EurekaServiceRegistry" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/EurekaServiceRegistry" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/authentication/auth-responder" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/authentication/auth-responder" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/authentication/authentication" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/authentication/authentication" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/authentication/mail-sender" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/authentication/mail-sender" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/restaurant/CommonUtils" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/restaurant/CommonUtils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/restaurant/mciroservices/reservations" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/restaurant/mciroservices/reservations" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modules/restaurant/mciroservices/table-reserve" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/modules/restaurant/mciroservices/table-reserve" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
