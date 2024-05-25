@@ -4,6 +4,26 @@
 
 Butchers Garden is a table reservation system designed to simplify the process of managing table reservations, creating and modifying tables, and handling user authentication via JWT. This documentation provides an overview of the available endpoints and their basic usage.
 
+### Login
+![Login](./ScreenShots/login.png)
+
+### SignUp
+![SignUp](./ScreenShots/signup.png)
+
+### Reserve Table and AvailableTables
+![Reserve Table and AvailableTables](./ScreenShots/pic3.png)
+
+### Reserve Table and AvailableTables
+![ Reserve Table and AvailableTables](./ScreenShots/pic4.png)
+
+### Edit Reservation
+![Edit Reservation](./ScreenShots/pic5.png)
+
+### Delete Reservation
+![Delete Reservation](./ScreenShots/pic6.png)
+
+
+
 ## Table of Contents
 
 - [Reservation Routes](#reservation-routes)
